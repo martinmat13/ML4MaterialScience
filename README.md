@@ -9,9 +9,7 @@ This repository contains my notes, code exercises, and materials from the **Mach
 
 ## 🔗 Important Links
 - **Course Material:** [Google Drive Folder](https://drive.google.com/drive/folders/1SVL5b48W_8bUocRE2EFSkRpWJs3rBIes?usp=sharing)
-- **Zoom Meeting:** [Join via Zoom-X](https://tu-darmstadt.zoom-x.de/j/9314134120?pwd=DvShu7Zm4MbSu5hI3zS2FLQBbg7d4I.1) 
-  - **Meeting ID:** 931 413 4120
-  - **Password:** ckW1EZ
+
 
 ## 📁 Repository Structure
 * `Day_1_Oct19/`: Notes and scripts from Monday's session.
